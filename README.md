@@ -10,32 +10,36 @@ Prerequisites:
 
 Before getting started, make sure you have the following installed on your macOS system:
 
-Node.js and npm
-Expo CLI
-Xcode (for iOS development)
-Android Studio (for Android development)
-Getting Started
-Follow these steps to start developing your first Expo app:
+* Node.js and npm
+* Expo CLI
+* Xcode (for iOS development)
+* Android Studio (for Android development)
 
-Install Expo CLI globally using npm:
+ Getting Started
+  
+  Follow these steps to start developing your first Expo app:
 
-```javascript Copy code
+1 - Install Expo CLI globally using npm:
+
+```Copy code
 npm install -g expo-cli
-Create a new Expo project:
+```
 
-csharp
-Copy code
+2 - Create a new Expo project: 
+
+```copy code
 expo init AwesomeProject
 Navigate into your project directory:
-
-bash
-Copy code
+```
+```Copy code
 cd AwesomeProject
 Start the development server:
+```
 
-sql
-Copy code
+```Copy code
 npm start
+```
+
 Follow the instructions to run your app on an Android or iOS emulator, or scan the QR code with the Expo Go app on your device.
 
 Building Your App
