@@ -29,20 +29,24 @@ npm install -g expo-cli
 
 ```copy code
 expo init AwesomeProject
-Navigate into your project directory:
 ```
+
+3 - Navigate into your project directory:
+
 ```Copy code
 cd AwesomeProject
-Start the development server:
 ```
+
+4 - Start the development server:
 
 ```Copy code
 npm start
 ```
 
-Follow the instructions to run your app on an Android or iOS emulator, or scan the QR code with the Expo Go app on your device.
+5 - Follow the instructions to run your app on an Android or iOS emulator, or scan the QR code with the Expo Go app on your device.
 
 Building Your App
+
 Once your project is set up, you can start building your app by editing the JavaScript files in the src directory. Expo provides a variety of pre-built components and APIs to help you create rich mobile experiences.
 
 Learning Resources
